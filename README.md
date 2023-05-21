@@ -14,6 +14,8 @@
 - postgresql
 - mybatis
 - jsp
+- java 11
+
 
 
 
